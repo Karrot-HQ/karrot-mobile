@@ -1,4 +1,4 @@
-# karrot-mobile
+# Karrot Mobile
 
 ## Summary
 
@@ -6,12 +6,11 @@ A mobile application that makes it easy for millennial home cooks to create a gr
 
 ## Technologies
 
-- Front-end: React-Native, Redux
-- Back-end: Node.js, Express
-- Database: Postgresql
-- Server: Heroku
+- React-Native
+- Expo
+- Redux
 
-## Installation
+## Set Up
 1. Clone the repository
 2. npm install at root level
 3. run npm start at root level
